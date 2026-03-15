@@ -40,6 +40,9 @@ cp .env.sample .env
 ```
 OPENAI_API_KEY=<your API key>
 ```
+
+4. If you use not https://openrouter.ai you have to specify BASE_URL and MODEL in config.py. 
+
 5. Start chat in terminal
 
 ```sh
