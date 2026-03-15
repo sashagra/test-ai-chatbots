@@ -8,10 +8,14 @@ russian lang UI
 - Terminal dialogs
 - Multilines input
 - Rendering markdown
+- Inmemory storage
+- Setting system prompt
+
 
 ## TODO
 
 - telegram bot
+- db for fialogs
 
 ## Running guide
 
